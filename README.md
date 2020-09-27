@@ -1,5 +1,5 @@
 # VBA-Challenge
-Homework #2- VBA Challenge: The VBA of Wall Street
+VBA Challenge: The VBA of Wall Street
 
 In this assignment, I created a mutli \-sheet code in an excel workbook. The code pulled data to show the yearly change in stock price, the percent of change from opening price to closing price within a year and the total stock volume. I also added code to highlight the positive yearly change in green and the negative yearly change in red. 
 
